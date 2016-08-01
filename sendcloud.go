@@ -9,6 +9,7 @@ import (
 
 const (
 	emailURL = "http://api.sendcloud.net/apiv2/"
+	smsURL   = "http://www.sendcloud.net/smsapi/"
 )
 
 // Config : the config of SDK
